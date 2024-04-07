@@ -1,0 +1,1999 @@
+body {
+		background-image: url("3.jpeg");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		background-attachment: scroll;
+			
+}
+
+#festivals {
+		font-family: segoe ui black;
+		text-align: center;
+		color: #FF0000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px WHITE;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#sinulogvid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #228b22;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#pahiyasvid {
+		height: 100px;
+		width: 100px;
+		border: 20px outset #b8860b;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#atiatihanvid {
+		height: 100px;
+		width: 100px;
+		border: 20px outset #4682b4;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#nazarenevid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #3cb371;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#floresvid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #db7093;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 390px;
+		width: 693px;
+		opacity: 3;
+		
+}
+
+#morionesvid {
+		height: 100px;
+		width: 100px;
+		border: 20px inset #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#penafranciavid {
+		height: 100px;
+		width: 100px;
+		border: 20px inset #FF0000;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#panagbengavid {
+		height: 100px;
+		width: 100px;
+		border: 20px inset #cd5c5c;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 393px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#kaamulanvid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #b22222;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 395px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#niyogyuganvid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #FF0000;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 395px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#bangusvid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #800000;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 395px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#lechonvid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #3cb371;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 395px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#dinagyangvid {
+		height: 100px;
+		width: 100px;
+		border: 20px inset #8b008b;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 395px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#masskaravid {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #FA8072;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 395px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+
+
+#intro {
+		height: 100px;
+		width: 100px;
+		border: 25px GROOVE #FF0000;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#sinulogg {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 70px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+#floress {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 70px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+#pahiyass {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 70px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+#morioness {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 70px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+#atii {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 70px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+#penaa {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 70px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+#blackk {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 300px;
+		width: 300px;
+		opacity: 3;
+		
+}
+
+
+#haha { 
+		font-family: script mt bold regular;
+		text-align: left;
+		color: #A52A2A;
+		text-shadow: 4px 4px 8px white;
+		font-weight: bold;
+		font-size: 2em;
+		
+}
+
+#haha2 { 
+		font-family: script mt bold regular;
+		text-align: center;
+		color: #A52A2A;
+		text-shadow: 4px 4px 8px white;
+		font-weight: bold;
+		font-size: 2em;
+		
+}
+
+
+#bg {
+		font-family: segoe ui black;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		font-weight: boldest;
+		font-size: 2.5em;
+		
+}
+
+em {
+		font-family: sans serif;
+		color: #8B0000;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: boldest;
+		
+}
+
+#font {
+		font-family: monospace;
+}
+
+#vid {
+		font-family: fantacy;
+		color: #8B0000;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: boldest;
+		text-decoration: underline;
+		text-align: center;
+		
+}
+
+#religious {
+		font-family: segoe ui black;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		font-style: normal;
+		font-weight: boldest;
+		font-size: 2.5em;
+		
+}
+
+#religious2 {
+		font-family: verdana;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-weight: boldest;
+		font-size: extra large;
+		
+}
+
+#festival1 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival2 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival3 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival4 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival5 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival6 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival7 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+
+#festival8 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival9 { 
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival10 {
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival11 {
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival12 {
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival13 {
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+#festival14 {
+		height: 100px;
+		width: 100px;
+		border: 20px RIDGE #DC143C;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 400px;
+		width: 1200px;
+		opacity: 3;
+		
+}
+
+
+
+#grandd { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+
+
+#atih {  
+		height: 100px;
+		width: 100px;
+		border: 10px solid #2f4f4f;
+		border-radius: 10px;
+		height: 400px;
+		width: 375px;
+		opacity: 3;
+		
+}
+
+#habhab { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#habhab2 { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#habhab3 { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#habhab4 { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+.sinulog {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.sinulog2 {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.sinulog3 {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.sinulog4 {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.sinulog5 {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.sinulog6 {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.sinulog7 {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+#sinulog1 {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+.wear {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 1.5em;
+}
+
+#grand {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#santo {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#party {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#shows {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#parade {
+		font-family: garamond;
+		color: #A52A2A;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#parade2 {
+		font-family: fantacy;
+		color: #A52A2A;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#parade3 {
+		font-family: fantacy;
+		color: #A52A2A;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#parade4 {
+		font-family: fantacy;
+		color: #A52A2A;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#pahiyas {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#pancit {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#pancit2 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#pancit3 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#pancit4 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#thanks { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#thanks2 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#thanks3 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#thanks4 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#morions {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+
+#santa {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.reyna {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.reyna2 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.reyna3 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.reyna4 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.reyna5 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+
+
+#giving {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#giving2 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#giving3 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#giving4 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#floresde {
+		height: 100px;
+		width: 100px;
+		border: 13px dashed #800000;
+		border-radius: 10px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 450px;
+		width: 500px;
+		opacity: 3;
+		
+}
+
+#santa2 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#avemaria { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#reynaelena { 
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#ati {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#nazarene {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#flores {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#moriones {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#pena {
+		font-family: georgia;
+		text-align: center;
+		color: #8B0000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#secular {
+		font-family: segoe ui black;
+		text-align: center;
+		color: #FA8072;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px black;
+		text-transform: uppercase;
+		font-weight: boldest;
+		font-size: 2em;
+}
+
+#secular2 {
+		font-family: arial black;
+		text-align: center;
+		color: #FA8072;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px black;
+		font-weight: boldest;
+		font-size: extra large;
+		
+}
+
+.panagbenga {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFC0CB;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.panagbenga2 {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFFAFA;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.panagbenga3 {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFC0CB;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.panagbenga4 {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFFAFA;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.panagbenga5 {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFC0CB;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.panagbenga6 {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFFAFA;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+.panagbenga7 {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFC0CB;
+		text-shadow: 4px 4px 8px black;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 2em;
+}
+
+#panagbenga1 {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#kaamulan {
+		font-family: georgia;
+		text-align: center;
+		color: #B22222;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#street { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+
+#street2 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+
+#street3 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+
+#street4 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#niyog {
+		font-family: georgia;
+		text-align: center;
+		color: #800000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#bangus {
+		font-family: georgia;
+		text-align: center;
+		color: #800000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#lechon {
+		font-family: georgia;
+		text-align: center;
+		color: #800000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#ball { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#ball2 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#ball3 { 
+		font-family: fantacy;
+		color:#8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#ball4 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#dinagyang {
+		font-family: georgia;
+		text-align: center;
+		color: #800000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#masskara {
+		font-family: georgia;
+		text-align: center;
+		color: #800000;
+		text-decoration: underline;
+		letter-spacing: 5px;
+		text-shadow: 4px 4px 8px white;
+		text-transform: uppercase;
+		word-spacing: 5px;
+		font-weight: boldest;
+		font-size: 5em;
+}
+
+#mask {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#mask2 {
+		font-family: fantacy;
+		color:#8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#mori {
+		height: 100px;
+		width: 100px;
+		border: 10px solid #a52a2a;
+		border-radius: 10px;
+		height: 400px;
+		width: 355px;
+		opacity: 3;
+		
+}
+
+#harubay {
+		color: #00008B;
+}
+
+#novena {
+		color: #00008B;
+}
+
+#pagsuko {
+		color: #00008B;
+}
+
+#perdon {
+		color: #00008B;
+}
+
+#tras {
+		color: #00008B;
+}
+
+#novenaa {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#novena1 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#novena2 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#novena3 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#novena4 {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.session { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.session2 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.session3 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.session4 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.session5 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+.session6 { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#open {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#open2 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#open3 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#open4 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#open5 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#open6 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+.park {
+		font-family: times new roman;
+		text-align: center;
+		color: #F5DEB3;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 1.5em;
+}
+
+#dancing {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#dancing2 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#dancing3 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#dancing4 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#glimpse {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#rodeo { 
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#rodeopic {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#ball1 {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#lights {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#dinag {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#wear {
+		font-family: times new roman;
+		text-align: center;
+		color: #FFA500;
+		text-shadow: 4px 4px 8px BLACK;
+		font-style: oblique;
+		font-weight: bold;
+		font-size: 1.5em;
+}
+
+#electric {
+		height: 100px;
+		width: 100px;
+		border: 20px double #800000;
+		border-radius: 100px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 350px;
+		width: 700px;
+		opacity: 3;
+		
+}
+
+#pahiyaspic {
+		height: 100px;
+		width: 100px;
+		border: 20px groove #808000;
+		border-radius: 0px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 500px;
+		width: 600px;
+		opacity: 3;
+		
+}
+
+#lady {
+		font-family: fantacy;
+		color: #8B0000;
+		text-decoration: underline;
+		text-shadow: 4px 4px 8px white;
+		font-style: oblique;
+		font-weight: bolder;
+		font-size: 2em;
+}
+
+#indent {
+		text-indent: 50px;
+}
